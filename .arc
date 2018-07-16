@@ -6,3 +6,6 @@ get /
 
 @css
 /styles
+
+@json
+get /cv
