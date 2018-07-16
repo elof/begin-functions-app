@@ -1,0 +1,7 @@
+{
+  "name": "polished-fire-790-get-index",
+  "dependencies": {
+    "@architect/functions": "^1.8.10",
+    "@begin-functions/data": "^1.0.2"
+  }
+}
